@@ -6,3 +6,4 @@
 // Enter b: 4
 // Enter operator (+ - * / %): /
 // 9.00 / 4.00 = 2.25
+import java.util.Scanner;
