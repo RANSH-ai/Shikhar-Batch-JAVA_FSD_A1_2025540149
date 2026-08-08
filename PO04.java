@@ -6,7 +6,7 @@
 // 'A' code : 65
 // 66 char  : B
 
-public class PO4 {
+public class PO04 {
 
     public static void main(String args[]) {
         System.out.println(" Widening : Narrowing:");

@@ -1,6 +1,6 @@
 // Read the radius (double). Print the area and circumference using Math.PI, both rounded to 2 decimal places with printf.
 import java.util.Scanner;
-public class PO5 {
+public class PO05 {
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

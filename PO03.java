@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PO3 {
+public class PO03 {
 
     public static void main(String[] args) {
 

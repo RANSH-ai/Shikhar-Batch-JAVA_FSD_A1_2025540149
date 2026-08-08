@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PO2 {
+public class PO02 {
 
     public static void main(String args[]) {
         Scanner add = new Scanner(System.in);

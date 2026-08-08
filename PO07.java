@@ -8,7 +8,7 @@
 // Maturity (P + CI) = 11664.00
 
 import java.util.Scanner;
-public class PO7 {
+public class PO07 {
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

@@ -3,7 +3,7 @@
 // Enter three numbers: 12 45 7
 // Largest = 45
 import java.util.Scanner;
-public class PO9 {
+public class PO09 {
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
