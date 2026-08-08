@@ -1,0 +1,83 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PO10",
+            "request": "launch",
+            "mainClass": "PO10",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO9",
+            "request": "launch",
+            "mainClass": "PO9",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO8",
+            "request": "launch",
+            "mainClass": "PO8",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO7",
+            "request": "launch",
+            "mainClass": "PO7",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO6",
+            "request": "launch",
+            "mainClass": "PO6",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO5",
+            "request": "launch",
+            "mainClass": "PO5",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO4",
+            "request": "launch",
+            "mainClass": "PO4",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO3",
+            "request": "launch",
+            "mainClass": "PO3",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO1",
+            "request": "launch",
+            "mainClass": "PO1",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "java",
+            "name": "PO2",
+            "request": "launch",
+            "mainClass": "PO2",
+            "projectName": "Shikhar batch {JAVA}_ae1b43c1"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
